@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+::-moz-selection {
+  background: #fbbc24;
+}
+::-webkit-selection {
+  background: #fbbc24;
+}
+::selection {
+  background: #fbbc24;
+}
