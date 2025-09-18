@@ -30,8 +30,8 @@ export default function Home() {
         <div className="relative w-full pb-[56.25%] h-0 overflow-hidden rounded-xl shadow-lg">
           <iframe
             className="absolute top-0 left-0 w-full h-full"
-            src="https://www.youtube.com/embed/suJJjWFu_44?si=DNPLIP-5uGUA3QRE&autoplay=1&mute=1&loop=1&playlist=suJJjWFu_44"
-            title="YouTube video"
+            src="https://www.youtube.com/embed/suJJjWFu_44?si=DNPLIP-5uGUA3QRE&autoplay=1&mute=1&showinfo=0&autohide=1"
+            title="Vídeo Quem é Renan Santos? Por: Renan Santos"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
