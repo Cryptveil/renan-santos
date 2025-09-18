@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <div className="font-sans min-h-screen flex flex-col items-center justify-center p-6">
       <main className="w-full max-w-3xl flex flex-col gap-8">
-        <h1 className="text-6xl font-bold text-center p-8">
+        <h1 style={{color: "var(--highlight)"}} className="text-4xl md:text-6xl font-bold text-center p-8">
           Quem é Renan Santos?
         </h1>
         <div className="relative w-full pb-[56.25%] h-0 overflow-hidden rounded-xl shadow-lg">
@@ -38,15 +38,25 @@ export default function Home() {
             allowFullScreen
           ></iframe>
         </div>
-        <section className="text-lg leading-relaxed">
+        <h2 style={{color: "var(--highlight)"}}className="text-3xl md:text-5xl font-bold text-center p-8">Um pouco sobre Renan:</h2>
+        <div className="text-lg leading-relaxed flex flex-col space-y-4">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atuação política ainda jovem, enquanto cursava Direito na Universidade de São Paulo. Foi nos corredores da faculdade, participando e liderando seu próprio movimento estudantil que começou a se destacar como ativista  e articulador, e encontrou sua <b style={{color: "var(--highlight)"}} className="text-xl">vocação política</b>.
           </p>
-        </section>
+    <p>
+    Nessa mesma época começou a trabalhar com a sua família no negócio de recuperação de empresas, em que adquiria empresas que estavam em sérias dificuldades financeiras e as recuperava. Foi durante esse período que enfrentou sua primeira situação de perigo, em que policiais corruptos ameaçaram seu pai cobrando dinheiro. Apesar das ameaças contra sua segurança, <b style={{color: "var(--highlight)"}} className="text-xl">formalizou a denúncia e auxiliou na investigação</b> que depois levou às prisões dos envolvidos.
+    </p>
+    <p>
+    <b style={{color: "var(--highlight)"}} className="text-xl">Esse evento foi o estopim para sua volta à política</b>, em um primeiro momento com sua participação nas Jornadas de Junho, em 2013. Após isso, em 2014 fundou um movimento político chamado de Movimento Renova Vinhedo. O grupo buscava novas formas de comunicação política e utilizava a internet como principal ferramenta para promover pautas liberais. Mais tarde naquele mesmo ano esse grupo seria base para a formação do <b style={{color: "var(--highlight)"}} className="text-xl">Movimento Brasil Livre</b>, mais conhecido com <b style={{color: "var(--highlight)"}} className="text-xl">MBL</b>, que estreou no cenário político com uma manifestação em frente ao Masp, em São Paulo, que reuniu cerca de 5 mil pessoas. Esse ato marcou a chegada de uma nova geração de ativistas e simbolizou o início de um ciclo em que a política digital passava a ocupar as ruas com cada vez mais força, o símbolo maximo disso foi no <b style={{color: "var(--highlight)"}} className="text-xl">Impeachment da então presidente Dilma Rousseff em 2016</b>, assim consagrando o movimento.
+    </p>
+    <p>
+    Desde então, Renan Santos tem se dedicado a múltiplas frentes de atuação, abrangendo a militância política, a produção intelectual e iniciativas no campo cultural, o que lhe conferiu projeção contínua como um <b style={{color: "var(--highlight)"}} className="text-xl">agente relevante nos debates públicos nacionais</b>.
+    </p>
+        </div>
         <section className="p-6 rounded-xl shadow-md">
-          <h2 className="text-xl font-semibold mb-4">
+          <h3 style={{color: "var(--highlight)"}} className="text-3xl md:text-5xl text-center font-semibold p-4 mb-4">
             Entre em contato
-          </h2>
+          </h3>
           <form className="flex flex-col gap-4">
             <input
               type="text"
