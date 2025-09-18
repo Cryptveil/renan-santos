@@ -33,7 +33,7 @@ export default function Home() {
             src="https://www.youtube.com/embed/suJJjWFu_44?si=DNPLIP-5uGUA3QRE&autoplay=1&mute=1&showinfo=0&autohide=1"
             title="Vídeo Quem é Renan Santos? Por: Renan Santos"
             frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media;"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
