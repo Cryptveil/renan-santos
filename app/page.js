@@ -38,8 +38,8 @@ export default function Home() {
             allowFullScreen
           ></iframe>
         </div>
-        <h2 style={{color: "var(--highlight)"}}className="text-3xl md:text-5xl font-bold text-center p-8">Um pouco sobre Renan:</h2>
-        <div className="text-lg leading-relaxed flex flex-col space-y-4">
+        <h2 style={{color: "var(--highlight)"}}className="text-3xl md:text-5xl font-bold text-center p-8">Um pouco sobre Renan</h2>
+        <div className="text-lg leading-relaxed flex flex-col space-y-4 text-justify">
           <p>
 Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atuação política ainda jovem, enquanto cursava Direito na Universidade de São Paulo. Foi nos corredores da faculdade, participando e liderando seu próprio movimento estudantil que começou a se destacar como ativista  e articulador, e encontrou sua <b style={{color: "var(--highlight)"}} className="text-xl">vocação política</b>.
           </p>
