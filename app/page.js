@@ -51,18 +51,18 @@ export default function Home() {
             <input
               type="text"
               placeholder="Seu nome"
-              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
               required
             />
             <input
               type="email"
               placeholder="Seu e-mail"
-              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
               required
             />
             <textarea
               placeholder="Sua mensagem"
-              className="border rounded-lg p-3 h-24 resize-none focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="border rounded-lg p-3 h-24 resize-none focus:outline-none focus:ring-2 focus:ring-yellow-500"
             />
             <button
               type="submit"
