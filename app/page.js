@@ -30,7 +30,7 @@ export default function Home() {
         <div className="relative w-full pb-[56.25%] h-0 overflow-hidden rounded-xl shadow-lg">
           <iframe
             className="absolute top-0 left-0 w-full h-full"
-            src="https://www.youtube.com/embed/suJJjWFu_44?si=DNPLIP-5uGUA3QRE&autoplay=1&mute=1&showinfo=0&autohide=1"
+            src="https://www.youtube.com/embed/suJJjWFu_44?si=DNPLIP-5uGUA3QRE&autoplay=1&showinfo=0&autohide=1"
             title="Vídeo Quem é Renan Santos? Por: Renan Santos"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media;"
@@ -53,7 +53,7 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
     Desde então, Renan Santos tem se dedicado a múltiplas frentes de atuação, abrangendo a militância política, a produção intelectual e iniciativas no campo cultural, o que lhe conferiu projeção contínua como um <b style={{color: "var(--highlight)"}} className="text-xl">agente relevante nos debates públicos nacionais</b>.
     </p>
         </div>
-        <section className="p-6 rounded-xl shadow-md">
+        <section className="p-6">
           <h3 style={{color: "var(--highlight)"}} className="text-3xl md:text-5xl text-center font-semibold p-4 mb-4">
             Entre em contato
           </h3>
