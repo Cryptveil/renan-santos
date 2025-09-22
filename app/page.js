@@ -53,35 +53,35 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
     Desde então, Renan Santos tem se dedicado a múltiplas frentes de atuação, abrangendo a militância política, a produção intelectual e iniciativas no campo cultural, o que lhe conferiu projeção contínua como um <b style={{color: "var(--highlight)"}} className="text-xl">agente relevante nos debates públicos nacionais</b>.
     </p>
         </div>
-/*        <section className="p-6">
-          <h3 style={{color: "var(--highlight)"}} className="text-3xl md:text-5xl text-center font-semibold p-4 mb-4">
-            Entre em contato
-          </h3>
-          <form className="flex flex-col gap-4">
-            <input
-              type="text"
-              placeholder="Seu nome"
-              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
-              required
-            />
-            <input
-              type="email"
-              placeholder="Seu e-mail"
-              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
-              required
-            />
-            <textarea
-              placeholder="Sua mensagem"
-              className="border rounded-lg p-3 h-24 resize-none focus:outline-none focus:ring-2 focus:ring-yellow-500"
-            />
-            <button
-              type="submit"
-              className="bg-yellow-500 text-black py-3 rounded-lg hover:bg-yellow-600 transition"
-            >
-              Enviar
-            </button>
-          </form>
-        </section> */
+//        <section className="p-6">
+//          <h3 style={{color: "var(--highlight)"}} className="text-3xl md:text-5xl text-center font-semibold p-4 mb-4">
+//            Entre em contato
+//          </h3>
+//          <form className="flex flex-col gap-4">
+//            <input
+//              type="text"
+//              placeholder="Seu nome"
+//              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
+//             required
+//            />
+//            <input
+//              type="email"
+//              placeholder="Seu e-mail"
+//              className="border rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-yellow-500"
+//              required
+//            />
+//            <textarea
+//              placeholder="Sua mensagem"
+//              className="border rounded-lg p-3 h-24 resize-none focus:outline-none focus:ring-2 focus:ring-yellow-500"
+//           />
+//            <button
+//              type="submit"
+//              className="bg-yellow-500 text-black py-3 rounded-lg hover:bg-yellow-600 transition"
+//            >
+//              Enviar
+//            </button>
+//          </form>
+//        </section> 
       </main>
 
       <button
