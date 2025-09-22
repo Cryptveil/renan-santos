@@ -53,7 +53,7 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
     Desde então, Renan Santos tem se dedicado a múltiplas frentes de atuação, abrangendo a militância política, a produção intelectual e iniciativas no campo cultural, o que lhe conferiu projeção contínua como um <b style={{color: "var(--highlight)"}} className="text-xl">agente relevante nos debates públicos nacionais</b>.
     </p>
         </div>
-        <section className="p-6">
+/*        <section className="p-6">
           <h3 style={{color: "var(--highlight)"}} className="text-3xl md:text-5xl text-center font-semibold p-4 mb-4">
             Entre em contato
           </h3>
@@ -81,7 +81,7 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
               Enviar
             </button>
           </form>
-        </section>
+        </section> */
       </main>
 
       <button
