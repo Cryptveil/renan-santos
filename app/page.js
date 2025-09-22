@@ -55,6 +55,13 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
         </div>
       </main>
 
+    <footer className="pt-8 bg-[] w-full flex flex-col items-center justify-center gap-2 opacity-70 hover:opacity-100 transition">
+      <img src="/macambiras.png" className="h-12 " alt="Logo Gatos Macambiras"/>
+      <p className="text-gray-600 dark:text-gray-400 text-sm">
+        @ Gatos Macambiras {new Date().getFullYear()}
+      </p>
+    </footer>
+
       <button
         onClick={toggleTheme}
         aria-label="Alternar tema"
