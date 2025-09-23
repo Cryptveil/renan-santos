@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import Image from 'next/image';
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -56,7 +57,11 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
       </main>
 
     <footer className="pt-8 bg-[] w-full flex flex-col items-center justify-center gap-2 opacity-70 hover:opacity-100 transition">
-      <img src="/macambiras.png" className="h-12 " alt="Logo Gatos Macambiras"/>
+      <Image 
+        src="/macambiras.png" 
+        alt="Logo Gatos Macambiras"
+        width={60}
+        height={60}/>
       <p className="text-gray-600 dark:text-gray-400 text-sm">
         @ Gatos Macambiras {new Date().getFullYear()}
       </p>
