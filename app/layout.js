@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Quem é Renan Santos? Conheça esta figura misteriosa.",
-  description: "Conheça quem é esta figura misteriosa.",
+  description: "Renan Santos é ativista político, futuro dono de partido e pré candidato à presidência do Brasil.",
 };
 
 export default function RootLayout({ children }) {
