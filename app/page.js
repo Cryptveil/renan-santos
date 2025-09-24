@@ -73,7 +73,7 @@ Renan Santos apoia a <b style={{color: "var(--highlight)"}} className="text-xl">
         </div>
         <Image
           src="/3.jpg"
-          alt="Renan Santos discursando"
+          alt="Renan Santos segurando a bandeira do partido Missão"
           height={0}
           width={800}
         />
@@ -92,6 +92,12 @@ Nascido em 14 de fevereiro de 1984, em São Paulo, Renan Santos iniciou sua atua
     <p>
     Desde então, Renan Santos tem se dedicado a múltiplas frentes de atuação, abrangendo a militância política, a produção intelectual e iniciativas no campo cultural, o que lhe conferiu projeção contínua como um <b style={{color: "var(--highlight)"}} className="text-xl">agente relevante nos debates públicos nacionais</b>.
     </p>
+        <Image
+          src="/2.jpg"
+          alt="Renan Santos discursando"
+          height={0}
+          width={800}
+        />
         </div>
       </main>
 
